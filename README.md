@@ -49,6 +49,19 @@ Firebase Storage: Used for storing profile pictures and other media.
 
 CSS: Styling the user interface for an attractive and responsive design.
 
+# Firebaese
+
+Firebase: A cloud-based platform for building mobile and web applications.
+
+Firestore: A NoSQL database by Firebase used to store and sync data in real-time.
+
+Firebase Authentication: Provides secure user authentication.
+
+Firebase Storage: Used for storing profile pictures and other media.
+
+
+
+
 
 # Getting Started 
 
