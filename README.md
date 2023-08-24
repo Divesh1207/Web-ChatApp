@@ -11,10 +11,6 @@
 
 ![image](https://github.com/Divesh1207/Web-ChatApp/assets/88198940/bcee5d9c-e116-414f-9586-32829689f2c9)
  
-
-
-
-
 # React Web Chat with Firebase Integration
 
 This repository contains a React web chat application that is integrated with Firebase for real-time messaging.
